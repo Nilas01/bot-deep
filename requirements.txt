@@ -1,5 +1,0 @@
-python-telegram-bot==21.1.1
-requests==2.31.0
-deep-translator==1.11.4
-nest-asyncio==1.6.0
-Pillow==10.2.0
